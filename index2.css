@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Battambang:wght@100;300;400;700;900&family=Koulen&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", serif;
+}
+.mk{
+    height: 100vh;
+}
+#img1{
+    width: 20%;
+    top: 30px;
+    left: 60px;
+}
+.h2{
+    top: 610px;
+    font-size: 50px;
+    color: black;
+    left: 70px;
+}
+svg{
+    top: 308px;
+    left: 910px;
+    color: rgb(0, 0, 0);  
+    font-weight: bold; 
+}
+#p1{
+    margin: 0 0 0 90px;
+    color: gray !important;
+}
+.bg{
+    background-color: white;
+}
+label{
+    margin: 0 0 0 90px;
+    color: gray !important;
+}
+input , button{
+    margin: 0 0 0 65px;
+}
+#svg{
+    top: 400px;
+    left: 910px;
+    color: rgb(0, 0, 0);  
+}
+.gm{
+    margin: 30px 0 0 300px;
+    font-size: 12px;
+    color: gray;
+}
+.im{
+    color: black;
+}
+.gk{
+    color: black !important;
+    margin: 126px 0 17px 90px;
+}
+.a{
+    margin: 0 0 0 260px;
+    text-decoration: none  !important;
+}
+a{
+    text-decoration: none !important;
+}
+hr{
+    width: 200px;
+    height: 100px;
+    right:420px;
+    top: 75%;
+}
+.hr{
+    width: 220px;
+    height: 100px;
+    right: 165px;
+    top: 75%;
+    
+}
+.btn{
+    text-transform: capitalize;
+    color: white !important;
+    background-color:rgb(81,70,229);
+    height: 40px;
+}
+.btn1{
+    width: 110px !important;
+    height: 40px;
+    border: 1px solid #ccc;
+    background-color: white !important;
+}
